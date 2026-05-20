@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Preciosa Valeria';
+    src: url('https://kae-kae-kae2001.github.io/fonts/PreciosaValeria.woff2') format('woff2'),
+         url('https://kae-kae-kae2001.github.io/fonts/PreciosaValeria.woff') format('woff'),
+         url('https://kae-kae-kae2001.github.io/fonts/PreciosaValeria.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Felidae';
+    src: url('https://kae-kae-kae2001.github.io/fonts/Felidae-Regular.woff2') format('woff2'),
+         url('https://kae-kae-kae2001.github.io/fonts/Felidae-Regular.woff') format('woff'),
+         url('https://kae-kae-kae2001.github.io/fonts/Felidae-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
