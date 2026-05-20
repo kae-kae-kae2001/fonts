@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Preciosa Valeria';
+    src: url('PreciosaValeria.woff2') format('woff2'),
+         url('PreciosaValeria.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Felidae';
+    src: url('Felidae-Regular.woff2') format('woff2'),
+         url('Felidae-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
